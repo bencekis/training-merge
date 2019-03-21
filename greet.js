@@ -1,3 +1,4 @@
-function greet(){
-	console.log("Greetings");
+function greet(greeetingText){
+
+	console.log(greetingText);
 }
