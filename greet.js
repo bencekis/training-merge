@@ -1,3 +1,3 @@
-function greet(name){
-	console.log(name);
+function greet(lastName, firstName){
+	console.log(lastName + ", " + fistName);
 }
