@@ -1,4 +1,4 @@
 function count(){
-var myAge=38;
+var myAge=01;
 console.log("My age is: " + myAge);
 }
