@@ -1,5 +1,4 @@
-function count(){
-var param = "Hajra";
-console.log("Cheer for "+param);
-console.log("Teamname is Ateam");
+function cheer(a, b){
+console.log("Cheer for "+a);
+console.log("Cheer for "+b);
 }
